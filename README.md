@@ -26,11 +26,11 @@
 
 ### 🧠 About Me  
 
-- 🌱 I’m currently learning *React.js, Node.js, Redux, and Express.js*  
-- 💡 Exploring *Next.js & TypeScript* for scalable web apps  
-- 💬 Ask me about *React, GSAP animations, and frontend performance*  
-- 📫 Reach me at *prajjawalraiaman@gmail.com*  
-- ⚡ Fun fact — I debug faster with music 🎧  
+- 🌱 I’m currently learning **React.js, Node.js, Redux, and Express.js**  
+- 💡 Exploring **Next.js & TypeScript** for scalable web apps  
+- 💬 Ask me about **React, GSAP animations, and frontend performance**  
+- 📫 Reach me at **prajjawalraiaman@gmail.com**  
+- ⚡ Fun fact — *I debug faster with music 🎧*  
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠 Languages and Tools  
+### 🛠️ Languages and Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,typescript,docker,firebase,c,cpp,kotlin" />
 </p>
@@ -58,13 +58,12 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalrai&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://streak-stats.demolab.com/?user=prajjwalrai&theme=tokyonight" alt="streak"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalrai&show_icons=true&theme=tokyonight" width="48%" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwalrai&theme=tokyonight" width="48%" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalrai&layout=compact&theme=tokyonight" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalrai&layout=compact&theme=tokyonight" width="50%" alt="languages"/>
 </p>
 
 ---
@@ -79,4 +78,11 @@
 ### 🚀 Visitor’s Badge  
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prajjwalrai" alt="visitors"/>
+</p>
+
+---
+
+### ✨ Thanks for Visiting!  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
