@@ -75,13 +75,6 @@
 
 ---
 
-### 🚀 Visitor’s Badge  
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prajjwalrai" alt="visitors"/>
-</p>
-
----
-
 ### ✨ Thanks for Visiting!  
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
