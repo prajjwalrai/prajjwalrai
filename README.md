@@ -42,7 +42,7 @@
   <a href="mailto:prajjawalraiaman@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://prajjwalrai.vercel.app" target="_blank">
+  <a href="https://prajjwalrai.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
