@@ -50,8 +50,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🛠️ Languages and Tools  
@@ -59,17 +57,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,typescript,docker,firebase,c,cpp,kotlin" />
 </p>
 
----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajjwalrai&show_icons=true&theme=tokyonight" width="48%" alt="stats"/>
- 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalrai&layout=compact&theme=tokyonight" width="50%" alt="languages"/>
-</p>
 
 ---
 
