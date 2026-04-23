@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="30" width="110"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://prajjwalrai.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-green-ten-db7liqz0yj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio" height="30" width="110"/>
   </a>
 </p>
